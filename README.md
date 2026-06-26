@@ -19,3 +19,5 @@
 
 📫 Connect with Me
 - GitHub: [GayatriJoshi-510](https://github.com/GayatriJoshi-510)
+
+🌸 "Every project I build is more than code—it's proof that I never stop learning, improving, and believing in what's possible."
