@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Gayatri Joshi 👋
 
-<!--
-**GayatriJoshi-510/GayatriJoshi-510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student
+💻 Passionate about Python, Java, Web Development & Cybersecurity
+🤖 Built an Intelligent Health Assessment System using Machine Learning
+🔍 Interested in AI, NLP, and Full Stack Development
 
-Here are some ideas to get you started:
+🛠️ Skills
+- Python | Java | HTML | CSS | JavaScript
+- Machine Learning | NLP | Scikit-Learn | Flask | Streamlit
+- SQLite | MySQL | Tkinter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Projects
+- 🏥 Intelligent Health System
+- 🔍 Fake Job Detector
+- 🔐 Cybersecurity Tools
+- ☕ Java Student Management System
+- 🌐 Web Development Projects
