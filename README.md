@@ -1,5 +1,3 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Gayatri%20Joshi&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=BCA%20Student%20|%20Developer%20|%20ML%20Enthusiast&descAlignY=55&descSize=18)
-
 # Hi, I'm Gayatri Joshi 👋
 
 🎓 BCA (Bachelor of Computer Applications) Student  
@@ -23,4 +21,4 @@
 - GitHub: [GayatriJoshi-510](https://github.com/GayatriJoshi-510)
 
 🌸 "Every project I build is more than code—it's proof that I never stop learning, improving, and believing in what's possible."
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+
